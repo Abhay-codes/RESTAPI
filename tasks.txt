@@ -1,0 +1,8 @@
+JSON REST API 
+GET/USERS ->list all users 
+GET/users/id->get the user with id =id 
+
+POST/USERS ->create new user 
+PATCH/USERS/1->edit ser with id =1 
+
+DELETE /USERS/2->DELETE USER with id 2
